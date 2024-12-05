@@ -5,7 +5,7 @@ Dataset
 
 AI Model
   
-   The project utilizes multiple AI architectures to evaluate performance and accuracy:
+  The project utilizes multiple AI architectures to evaluate performance and accuracy:
   
   1. Baseline Model: A simple neural network with two linear layers for quick evaluation.
 
